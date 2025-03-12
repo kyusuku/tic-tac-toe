@@ -65,17 +65,6 @@ let Gameboard = (function() {
     }
 })();
 
-// let Player = function (name, marker) {
-//     let player = {};
-
-//     player.name = name;
-//     player.marker = marker;
-
-//     return player;
-// }
-
-// let player1 = Player('Player 1', 'X');
-// let player2 = Player('Player 2', 'O');
 let turn = 1;
 let gameOver = false;
 
