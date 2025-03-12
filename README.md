@@ -10,7 +10,7 @@ Tic-Tac-Toe is a browser-based web game created as part of my journey through Th
 
 ## Try It Out
 
-👉 You can view and interact with Tic-Tac-Toe here: [Tic-Tac-Toe](#)
+👉 You can view and interact with Tic-Tac-Toe here: [Tic-Tac-Toe](https://kyusuku.github.io/tic-tac-toe/)
 
 ## Features
 
